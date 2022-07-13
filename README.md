@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A passionate Data Scientist & Machine Learning Researcher</h3>
+<h3 align="center">A Passionate Data Scientist & Machine Learning Researcher</h3>
 
 - 🌱 I’m currently learning about **Contrastive Learning**
 
