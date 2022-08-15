@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A Passionate Data Scientist & Machine Learning Researcher</h3>
 
-- 🌱 I’m currently learning about **Contrastive Learning**
+- 🌱 I’m currently learning about **MLops**
 
 - 👨‍💻 All of my projects are available at [https://lashleyaq.github.io/](https://lashleyaq.github.io/)
 
